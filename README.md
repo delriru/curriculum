@@ -10,6 +10,7 @@ Experienced Backup and Storage Administrator with expertise in data protection, 
 - **Email:** [rubendelriomiguel@gmail.com](mailto:rubendelriomiguel@gmail.com)
 - **Phone:** +34 610026358
 - **Location:** Coruña
+- - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruben-del-rio-miguel-54939a17b/)
 
 ---
 

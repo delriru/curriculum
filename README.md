@@ -21,10 +21,13 @@ Experienced Backup and Storage Administrator with expertise in data protection, 
 ---
 
 ## 🏆 Certifications
+- ✅ Microsoft Certified: Azure AI Fundamentals
+- ✅Microsoft Certified: Azure Data Fundamentals
+- ✅Microsoft Certified: Azure Fundamentals
 - ✅ Oracle Foundations Associate - Oracle
+- ✅ Cloud Computing - Google Activate
 - ✅ NSE 1 Network Security Associate - Fortinet
 - ✅ Networking Basics - Cisco Networking Academy
-- ✅ Cloud Computing - Google Activate
 - ✅ Cybersecurity Essentials - Cisco Networking Academy
 - ✅ Scrum Foundation - CertiProf
 - ✅ IBM Cloud Essentials - IBM

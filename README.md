@@ -51,6 +51,8 @@ Experienced Backup and Storage Administrator with expertise in data protection, 
 **EUIPO - European Union Intellectual Property Office**  
 *Feb 2022 - Present | Alicante, Spain*
 
+I worked for the subcontractor TRS Staffing Solutions for two years until they changed my contract with Fujitsu for the EUIPO project.
+
 - 🛠 Administering **Commvault**, configuring clients, performing upgrades, and restoring data.
 - 📦 Managing **NetApp** storage systems, including CIFS, NFS, and Trident volumes.
 - 🔄 Upgrading **IRMC** and monitoring alerts through **PRTG**.
